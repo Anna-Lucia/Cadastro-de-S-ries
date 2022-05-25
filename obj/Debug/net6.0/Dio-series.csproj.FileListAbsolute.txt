@@ -1,0 +1,15 @@
+C:\Users\annao\OneDrive\Documentos\programação\impulso-full-stack\dotnet\Dio-series\obj\Debug\net6.0\Dio-series.csproj.AssemblyReference.cache
+C:\Users\annao\OneDrive\Documentos\programação\impulso-full-stack\dotnet\Dio-series\obj\Debug\net6.0\Dio-series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\annao\OneDrive\Documentos\programação\impulso-full-stack\dotnet\Dio-series\obj\Debug\net6.0\Dio-series.AssemblyInfoInputs.cache
+C:\Users\annao\OneDrive\Documentos\programação\impulso-full-stack\dotnet\Dio-series\obj\Debug\net6.0\Dio-series.AssemblyInfo.cs
+C:\Users\annao\OneDrive\Documentos\programação\impulso-full-stack\dotnet\Dio-series\obj\Debug\net6.0\Dio-series.csproj.CoreCompileInputs.cache
+C:\Users\annao\OneDrive\Documentos\programação\impulso-full-stack\dotnet\Dio-series\bin\Debug\net6.0\Dio-series.exe
+C:\Users\annao\OneDrive\Documentos\programação\impulso-full-stack\dotnet\Dio-series\bin\Debug\net6.0\Dio-series.deps.json
+C:\Users\annao\OneDrive\Documentos\programação\impulso-full-stack\dotnet\Dio-series\bin\Debug\net6.0\Dio-series.runtimeconfig.json
+C:\Users\annao\OneDrive\Documentos\programação\impulso-full-stack\dotnet\Dio-series\bin\Debug\net6.0\Dio-series.dll
+C:\Users\annao\OneDrive\Documentos\programação\impulso-full-stack\dotnet\Dio-series\bin\Debug\net6.0\Dio-series.pdb
+C:\Users\annao\OneDrive\Documentos\programação\impulso-full-stack\dotnet\Dio-series\obj\Debug\net6.0\Dio-series.dll
+C:\Users\annao\OneDrive\Documentos\programação\impulso-full-stack\dotnet\Dio-series\obj\Debug\net6.0\refint\Dio-series.dll
+C:\Users\annao\OneDrive\Documentos\programação\impulso-full-stack\dotnet\Dio-series\obj\Debug\net6.0\Dio-series.pdb
+C:\Users\annao\OneDrive\Documentos\programação\impulso-full-stack\dotnet\Dio-series\obj\Debug\net6.0\Dio-series.genruntimeconfig.cache
+C:\Users\annao\OneDrive\Documentos\programação\impulso-full-stack\dotnet\Dio-series\obj\Debug\net6.0\ref\Dio-series.dll
